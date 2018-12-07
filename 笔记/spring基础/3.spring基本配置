@@ -1,0 +1,11 @@
+bean元素中的id和name属性
+
+    使用时id，id的命名规则遵循xml的ID约束
+    
+\<import resource=""/>元素
+    
+    随着开发规模增大，bean的数量会很多，全部写在一个xml文件中会非常臃肿，使用该标签
+    将bean拆分到多个xml中 可以实现分块管理
+    使用该元素 将拆分出的多个文件导入原来的文件即可
+    tips： 文件路径采用 Ralative Path
+    idea中 在xml文件上右键上数下第五个
