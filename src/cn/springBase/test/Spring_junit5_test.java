@@ -2,7 +2,9 @@ package cn.springBase.test;
 
 import cn.springBase.bean.HelloWorld;
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.ApplicationContext;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringJUnitConfig;
 
@@ -18,9 +20,16 @@ class Spring_junit5_test {
     // 按照类型自动获取对象（所以导入的HelloWorld3.xml如果导入另外两个文件，由于另外两个中存在多个同一个类的对象会报错）
     @Autowired
     private HelloWorld world;
+    //Autowired 能注入容器对象
+    @Autowired
+    private BeanFactory beanFactory;
+    @Autowired
+    private ApplicationContext ctx;
 
     @Test
     void HelloWorldTest(){
         System.out.println(world.getMessage());
+        System.out.println(ctx);
+        System.out.println(beanFactory);
     }
 }
