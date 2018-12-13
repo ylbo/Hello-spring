@@ -3,15 +3,5 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <!-- TODO （重点掌握）构造器实例化（无参构造器），最标准，使用最多 -->
-    <bean id="cat1" class="cn.springIoc.bean_instantiation._01_constructor.Cat1"  />
-    <!-- TODO 静态工厂方法实例化，解决系统遗留问题（了解如何配置xml即可） -->
-    <bean id="cat2" class="cn.springIoc.bean_instantiation._02_static_factory.Cat2Factory" factory-method="createInstance" />
-    <!-- TODO 实例工厂方法实例化 解决系统遗留问题（了解如何配置xml即可） -->
-    <bean id="cat3Factory" class="cn.springIoc.bean_instantiation._03_instance_factory.Cat3Factory" />
-    <bean id="cat3" factory-bean="cat3Factory" factory-method="createIntance" />
-    <!-- TODO （重点掌握）实现FactoryBean接口实例化：实例工厂变种，如集成MyBatis框架使用 -->
-    <bean id="cat4" class="cn.springIoc.bean_instantiation._04_factory_bean.Cat4Factory">
-        <property name="userName" value="创建username"/>
-    </bean>
+    <bean id="dog" class="cn.springIoc.bean_scope.Dog" />
 </beans>

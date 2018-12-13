@@ -1,4 +1,4 @@
-package cn.springIoc.bean_init._02_static_factory;
+package cn.springIoc.bean_instantiation._02_static_factory;
 
 public class Cat2Factory {
     public static Cat2 createInstance(){

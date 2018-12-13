@@ -1,4 +1,4 @@
-package cn.springIoc.bean_init._01_constructor;
+package cn.springIoc.bean_instantiation._01_constructor;
 
 public class Cat1 {
     public Cat1(){

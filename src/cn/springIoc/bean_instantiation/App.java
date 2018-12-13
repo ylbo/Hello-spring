@@ -1,9 +1,9 @@
-package cn.springIoc.bean_init;
+package cn.springIoc.bean_instantiation;
 
-import cn.springIoc.bean_init._01_constructor.Cat1;
-import cn.springIoc.bean_init._02_static_factory.Cat2;
-import cn.springIoc.bean_init._03_instance_factory.Cat3;
-import cn.springIoc.bean_init._04_factory_bean.Cat4;
+import cn.springIoc.bean_instantiation._01_constructor.Cat1;
+import cn.springIoc.bean_instantiation._02_static_factory.Cat2;
+import cn.springIoc.bean_instantiation._03_instance_factory.Cat3;
+import cn.springIoc.bean_instantiation._04_factory_bean.Cat4;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.junit.jupiter.SpringJUnitConfig;

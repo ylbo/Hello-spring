@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="ds"
-          class="cn.springIoc.bean_lifecycle.MyDataSource"
+          class="cn.springIoc.bean_create_and_destroy.MyDataSource"
           init-method="open"
           destroy-method="close"
           />

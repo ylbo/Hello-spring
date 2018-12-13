@@ -1,4 +1,4 @@
-package cn.springIoc.bean_lifecycle;
+package cn.springIoc.bean_create_and_destroy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
