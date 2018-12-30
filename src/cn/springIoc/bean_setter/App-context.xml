@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--常量类型注入-->
+    <bean id="employee" class="cn.springIoc.bean_setter.Employee">
+        <property name="name" value="employee"/>
+        <property name="age" value="17"/>
+        <property name="salary" value="800"/>
+    </bean>
+
+    <!--对象类型注入-->
+    <bean id="cat" class="cn.springIoc.bean_setter.Cat">
+        <property name="employee" ref="employee"/>
+    </bean>
+
+    <!--集合类型注入-->
+    <bean id="collectionBean" class="cn.springIoc.bean_setter.CollectionBean">
+        <!--set集合-->
+        <property name="set">
+            <set>
+                <value>"set1"</value>
+                <value>"set2"</value>
+            </set>
+        </property>
+        <!--数组-->
+        <property name="array">
+            <array>
+                <value>"array1"</value>
+                <value>"array2"</value>
+            </array>
+        </property>
+        <!--list类型-->
+        <property name="list">
+            <list>
+                <value>"list1"</value>
+                <value>"list2"</value>
+            </list>
+        </property>
+        <!--map类型 常量对象直接写key value  其他对象使用 key-ref value-ref -->
+        <property name="map">
+            <map>
+                <entry key="key" value="value"/>
+            </map>
+        </property>
+        <!--properties类型 也可以使用map的写法-->
+        <!--<property name="properties">-->
+            <!--<props>-->
+                <!--<prop key="prop">la</prop>-->
+            <!--</props>-->
+        <!--</property>-->
+        <!--properties类型简写-->
+        <property name="properties">
+            <value>
+                p1=v1
+                p2=v2
+                p3=v3
+            </value>
+        </property>
+    </bean>
+    <bean id="lsls" class="cn.springIoc.bean_setter.Dog">
+        <constructor-arg name="ss" value="lala"/>
+    </bean>
+    
+</beans>

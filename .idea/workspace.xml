@@ -5,28 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dde4712-8b94-4e18-a00c-a6d12c3cc260" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello spring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springBase/test/Spring_junit5_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springBase/test/Spring_junit5_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/App-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/App-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/MyDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/MyDataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/App-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/App-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_01_constructor/Cat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_01_constructor/Cat1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_02_static_factory/Cat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_02_static_factory/Cat2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_02_static_factory/Cat2Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_02_static_factory/Cat2Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_03_instance_factory/Cat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_03_instance_factory/Cat3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_03_instance_factory/Cat3Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_03_instance_factory/Cat3Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_04_factory_bean/Cat4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_04_factory_bean/Cat4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_04_factory_bean/Cat4Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_04_factory_bean/Cat4Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_scope/App-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_scope/App-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_scope/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_scope/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_scope/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_scope/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/2.IOC/2.bean的实例化方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2.IOC/2.bean的实例化方案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/2.IOC/3.bean作用域.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2.IOC/3.bean作用域.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/2.IOC/4.bean实例化和销毁.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2.IOC/4.bean实例化和销毁.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/2.IOC/5.bean生命周期.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2.IOC/5.bean生命周期.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/Container/Container.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/Container/Container.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/Container/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/Container/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/App-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation_methods/App-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation_methods/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_01_constructor/Cat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation_methods/_01_constructor/Cat1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_02_static_factory/Cat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation_methods/_02_static_factory/Cat2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_02_static_factory/Cat2Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation_methods/_02_static_factory/Cat2Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_03_instance_factory/Cat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation_methods/_03_instance_factory/Cat3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_03_instance_factory/Cat3Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation_methods/_03_instance_factory/Cat3Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_04_factory_bean/Cat4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation_methods/_04_factory_bean/Cat4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_04_factory_bean/Cat4Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation_methods/_04_factory_bean/Cat4Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/1.spring基础/2getBean三种方式和常见异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/1.spring基础/2getBean三种方式和常见异常.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/2.IOC/1IOC容器.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/1IOC容器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/2.IOC/2.bean的实例化方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/2.bean的实例化方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/2.IOC/3.bean作用域.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/3.bean作用域.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/2.IOC/4.bean实例化和销毁.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/4.bean实例化和销毁.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/2.IOC/5.bean生命周期.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/5.bean生命周期.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +33,125 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/Autowired/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/笔记/3.基于注解配置bean/细节.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="168">
+                <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/App-context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/Autowired/App-context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/App-context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/server/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/dao/UserDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/dao/UserDAOImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,6 +159,8 @@
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit4 Test Class" />
         <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -59,49 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/cn/sxt/bean/HelloWorldTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/springBase/bean/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/getBeanException.xml" />
-        <option value="$PROJECT_DIR$/src/lalal.xml" />
-        <option value="$PROJECT_DIR$/src/HelloWorld3.xml" />
-        <option value="$PROJECT_DIR$/src/beans.xml" />
-        <option value="$PROJECT_DIR$/笔记/spring基础/spring基本配置" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/笔记/spring基础/1.IOC" />
-        <option value="$PROJECT_DIR$/笔记/spring基础/6.spring基本配置" />
-        <option value="$PROJECT_DIR$/笔记/spring基础/2getBean三种方式和常见异常.md" />
-        <option value="$PROJECT_DIR$/test/cn/springBase/bean/getBean_threeException.java" />
-        <option value="$PROJECT_DIR$/src/cn/springBase/bean/HelloWorld3.xml" />
-        <option value="$PROJECT_DIR$/Readme.md" />
-        <option value="$PROJECT_DIR$/hello spring.iml" />
-        <option value="$PROJECT_DIR$/test/cn/springBase/test/Spring_test.java" />
-        <option value="$PROJECT_DIR$/test/cn/springBase/test/spring5_test.java" />
-        <option value="$PROJECT_DIR$/test/cn/springBase/bean/HelloWorldTest.java" />
-        <option value="$PROJECT_DIR$/test/cn/springBase/test/Spring5_test.java" />
-        <option value="$PROJECT_DIR$/test/cn/springBase/test/Spring4_test.java" />
-        <option value="$PROJECT_DIR$/笔记/spring基础/3.spring测试框架.md" />
-        <option value="$PROJECT_DIR$/笔记/2.IOC/1.md" />
-        <option value="$PROJECT_DIR$/src/cn/spingIocContainer/SomeBean.java" />
-        <option value="$PROJECT_DIR$/src/cn/spingIocContainer/Person.java" />
-        <option value="$PROJECT_DIR$/test/cn/spingIocContainer/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/spingIocContainer/Container.xml" />
-        <option value="$PROJECT_DIR$/test/cn/springIocContainer/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIocContainer/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIocContainer/Container.xml" />
-        <option value="$PROJECT_DIR$/笔记/2.IOC/1IOC容器.md" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_init/_01_constructor/Cat.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_init/_02_static_factory/Cat2Factory.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_init/_02_static_factory/Cat2.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_init/_03_instance_factory/Cat3Factory.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_init/App.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_init/App-context.xml" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_init/_04_factory_bean/Cat4Factory.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_04_factory_bean/Cat4Factory.java" />
-        <option value="$PROJECT_DIR$/笔记/2.IOC/3.bean作用域.md" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_scope/Dog.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_scope/App-context.xml" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_lifesycle/MyDataSource.java" />
-        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_lifesycle/App-context.xml" />
         <option value="$PROJECT_DIR$/src/cn/springIoc/bean_lifecycle/MyDataSource.java" />
         <option value="$PROJECT_DIR$/src/cn/springIoc/bean_scope/App.java" />
         <option value="$PROJECT_DIR$/src/cn/springIoc/bean_lifecycle/App.java" />
@@ -110,6 +184,49 @@
         <option value="$PROJECT_DIR$/笔记/2.IOC/4.bean实例化和销毁.md" />
         <option value="$PROJECT_DIR$/笔记/2.IOC/5.bean生命周期.md" />
         <option value="$PROJECT_DIR$/笔记/2.IOC/2.bean的实例化方案.md" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/Container/Container.xml" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/Container/PersonTest.java" />
+        <option value="$PROJECT_DIR$/笔记/查看端口是否被占用.md" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/injection/SomeBean.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/injection/SomeBean2.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/injection/SomeBean1.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/injection/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/injection/App-context.xml" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_extend/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_injection/Employee.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_injection/Cat.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_injection/CollectionBean.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_injection/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_injection/App-context.xml" />
+        <option value="$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/6.bean注入方式.md" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_setter/App-context.xml" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_setter/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/bean_setter/Dog.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/property_placeholder/App-context.xml" />
+        <option value="$PROJECT_DIR$/resoures/db.properties" />
+        <option value="$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/7.bean继承.md" />
+        <option value="$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/8.连接池配置.md" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/regiser/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/regiser/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/regiser/server/sever.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/regiser/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/regiser/App-context.xml" />
+        <option value="$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/9.模拟注册练习.md" />
+        <option value="$PROJECT_DIR$/笔记/常见的问题.md" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/property_placeholder/property_placeholder/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/property_placeholder/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/property_placeholder/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/regiser/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/cn/springIoc/regiser/dao/UserDAOImp.java" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/regiser/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/regiser/App-context.xml" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/regiser/dao/UserDAOImp.java" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/register/dao/UserDAOImp.java" />
+        <option value="$PROJECT_DIR$/笔记/1.spring基础/2getBean三种方式和常见异常.md" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/Autowired/App-context.xml" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/Autowired/Cat.java" />
+        <option value="$PROJECT_DIR$/src/cn/springAnnotations/Autowired/App.java" />
+        <option value="$PROJECT_DIR$/笔记/3.基于注解配置bean/细节.md" />
       </list>
     </option>
   </component>
@@ -119,30 +236,19 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1015" />
-    <option name="width" value="912" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="hello spring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="hello spring" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,32 +259,90 @@
             <path>
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello spring" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello spring" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello spring" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="springAnnotations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="springAnnotations" type="462c0819:PsiDirectoryNode" />
+              <item name="Autowired" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="springAnnotations" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="springAnnotations" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="springAnnotations" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="springAnnotations" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="springBase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello spring" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="springBase" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="springIoc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello spring" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="springBase" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="springIoc" type="462c0819:PsiDirectoryNode" />
+              <item name="bean_create_and_destroy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
@@ -189,7 +353,13 @@
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello spring" type="462c0819:PsiDirectoryNode" />
               <item name="笔记" type="462c0819:PsiDirectoryNode" />
-              <item name="spring基础" type="462c0819:PsiDirectoryNode" />
+              <item name="1.spring基础" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
+              <item name="笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="3.基于注解配置bean" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,16 +376,33 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="hello spring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello spring" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hello spring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello spring" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="out" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544715451453" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546173030264" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -227,12 +414,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="cn.spingIocContainer" />
       <recent name="cn.sxt.bean" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="cn.springIocContainer" />
@@ -240,13 +430,18 @@
       <recent name="cn.springBase.bean" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project\hello spring\src\cn\springIoc\bean_lifesycle" />
-      <recent name="D:\project\hello spring\src\cn\springIoc\bean_scope" />
+      <recent name="D:\project\hello spring\src\cn\springAnnotations\Autowired" />
+      <recent name="D:\project\hello spring\src\cn\springAnnotations" />
+      <recent name="D:\project\hello spring\src\cn\springAnnotations\" />
+      <recent name="D:\project\hello spring\src\cn\springIoc\regiser" />
+      <recent name="D:\project\hello spring\lib" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.springAnnotations.Autowired" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\hello spring\src\cn\springAnnotations\property_placeholder\property_placeholder" />
+      <recent name="D:\project\hello spring" />
       <recent name="D:\project\hello spring\src\cn\springIoc\Container" />
       <recent name="D:\project\hellp spring\src\cn\springBase\bean" />
       <recent name="D:\project\hellp spring\src" />
@@ -269,17 +464,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.App.testIOC">
+  <component name="RunManager">
     <configuration name="App" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hello spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.springIoc.bean_create_and_destroy.*" />
+          <option name="PATTERN" value="cn.springAnnotations.Autowired.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.springIoc.bean_create_and_destroy" />
-      <option name="MAIN_CLASS_NAME" value="cn.springIoc.bean_create_and_destroy.App" />
+      <option name="PACKAGE_NAME" value="cn.springAnnotations.Autowired" />
+      <option name="MAIN_CLASS_NAME" value="cn.springAnnotations.Autowired.App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -288,75 +483,21 @@
       <module name="hello spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.springIoc.bean_create_and_destroy.*" />
+          <option name="PATTERN" value="cn.springIoc.bean_setter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.springIoc.bean_create_and_destroy" />
-      <option name="MAIN_CLASS_NAME" value="cn.springIoc.bean_create_and_destroy.App" />
+      <option name="PACKAGE_NAME" value="cn.springIoc.bean_setter" />
+      <option name="MAIN_CLASS_NAME" value="cn.springIoc.bean_setter.App" />
       <option name="METHOD_NAME" value="testCat" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App.testIOC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hello spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.springIoc.bean_create_and_destroy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.springIoc.bean_create_and_destroy" />
-      <option name="MAIN_CLASS_NAME" value="cn.springIoc.bean_create_and_destroy.App" />
-      <option name="METHOD_NAME" value="testIOC" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App.testOld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hello spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.springIoc.bean_create_and_destroy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.springIoc.bean_create_and_destroy" />
-      <option name="MAIN_CLASS_NAME" value="cn.springIoc.bean_create_and_destroy.App" />
-      <option name="METHOD_NAME" value="testOld" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="[engine:junit-jupiter]/[class:cn.springIoc.bean_lifecycle.App]" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hello spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.springIoc.bean_create_and_destroy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.springIoc.bean_lifecycle" />
-      <option name="MAIN_CLASS_NAME" value="cn.springIoc.bean_lifecycle.App" />
-      <option name="METHOD_NAME" value="testOld" />
-      <option name="TEST_OBJECT" value="uniqueId" />
-      <uniqueIds>
-        <uniqueId value="[engine:junit-jupiter]/[class:cn.springIoc.bean_lifecycle.App]" />
-      </uniqueIds>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.App.testIOC" />
         <item itemvalue="JUnit.App" />
-        <item itemvalue="JUnit.[engine:junit-jupiter]/[class:cn.springIoc.bean_lifecycle.App]" />
-        <item itemvalue="JUnit.App.testOld" />
       </list>
     </recent_temporary>
   </component>
@@ -392,48 +533,75 @@
       <workItem from="1544704273200" duration="10459000" />
       <workItem from="1544715670754" duration="141000" />
       <workItem from="1544715840113" duration="123000" />
+      <workItem from="1544715990359" duration="486000" />
+      <workItem from="1544789147814" duration="633000" />
+      <workItem from="1544797229599" duration="149000" />
+      <workItem from="1544797404007" duration="83000" />
+      <workItem from="1544886068967" duration="1499000" />
+      <workItem from="1545049340993" duration="1662000" />
+      <workItem from="1545271285990" duration="357000" />
+      <workItem from="1545280732178" duration="153000" />
+      <workItem from="1545310356332" duration="862000" />
+      <workItem from="1545830600988" duration="29000" />
+      <workItem from="1545987612912" duration="986000" />
+      <workItem from="1545994878976" duration="6000" />
+      <workItem from="1546090552406" duration="691000" />
+      <workItem from="1546095613919" duration="6181000" />
+      <workItem from="1546152910497" duration="1953000" />
+      <workItem from="1546154871841" duration="4608000" />
+      <workItem from="1546159514051" duration="8363000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="App_testIOC - 2018.12.13 at 22h 22m 46s.xml">
-      <configuration name="App.testIOC" configurationId="JUnit" />
+    <history-entry file="App_testCat1 - 2018.12.30 at 19h 54m 07s.xml">
+      <configuration name="App.testCat1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testIOC - 2018.12.13 at 22h 24m 18s.xml">
-      <configuration name="App.testIOC" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="App_testIOC - 2018.12.13 at 22h 26m 58s.xml">
-      <configuration name="App.testIOC" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="App_testIOC - 2018.12.13 at 22h 30m 00s.xml">
-      <configuration name="App.testIOC" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="App_testOld - 2018.12.13 at 22h 31m 57s.xml">
-      <configuration name="App.testOld" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="App_(1) - 2018.12.13 at 22h 32m 15s.xml">
+    <history-entry file="App_(1) - 2018.12.30 at 19h 54m 54s.xml">
       <configuration name="App (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testIOC - 2018.12.13 at 22h 32m 31s.xml">
-      <configuration name="App.testIOC" configurationId="JUnit" />
+    <history-entry file="App_testCat1 - 2018.12.30 at 19h 55m 58s.xml">
+      <configuration name="App.testCat1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testIOC - 2018.12.13 at 22h 33m 12s.xml">
-      <configuration name="App.testIOC" configurationId="JUnit" />
+    <history-entry file="App_(1) - 2018.12.30 at 19h 59m 03s.xml">
+      <configuration name="App (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App - 2018.12.13 at 22h 33m 42s.xml">
+    <history-entry file="App_(1) - 2018.12.30 at 19h 59m 33s.xml">
+      <configuration name="App (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_testCat1 - 2018.12.30 at 20h 01m 22s.xml">
+      <configuration name="App.testCat1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_testCat1 - 2018.12.30 at 20h 02m 46s.xml">
+      <configuration name="App.testCat1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_testCat1 - 2018.12.30 at 20h 03m 15s.xml">
+      <configuration name="App.testCat1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App - 2018.12.30 at 20h 05m 27s.xml">
       <configuration name="App" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testIOC - 2018.12.13 at 22h 39m 32s.xml">
-      <configuration name="App.testIOC" configurationId="JUnit" />
+    <history-entry file="App - 2018.12.30 at 20h 05m 55s.xml">
+      <configuration name="App" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53755000" />
+    <option name="totallyTimeSpent" value="82456000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1015" y="0" width="912" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26173708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20735608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -442,18 +610,52 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.30120483" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989059" visible="true" weight="0.29718006" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49781182" weight="0.3286334" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3286334" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010941" side_tool="true" weight="0.30010954" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3264642" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3275488" />
+      <window_info anchor="bottom" id="Problems" order="14" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24945295" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.63347924" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.30043384" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32968238" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3286334" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.31744313" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.3167028" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3264642" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.32858709" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3275488" />
+      <window_info anchor="bottom" id="Problems" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24945295" />
@@ -463,299 +665,70 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://SPRING/appContextPath=D:/project/hellp spring/src/getBeanException.xml;appContextName=getBeanException">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>SPRING</ID>
-          <OriginalElement>appContextPath=D:/project/hellp spring/src/getBeanException.xml;appContextName=getBeanException</OriginalElement>
-          <nodes>
-            <node x="" y="">module=hello spring;context=D:/project/hellp spring/src/getBeanException.xml;bean_class=cn.springBase.bean.HelloWorld;bean_name=HelloWorld</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="45.0" y="44.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Local context</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/spring基础/1.IOC/DI.md" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="28">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../java_final_assignment/java_final_assignment/java_final_assignment.iml" />
-    <entry file="file://$PROJECT_DIR$/笔记/1.spring基础/2getBean三种方式和常见异常.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="56">
-            <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/1.spring基础/1.IOC">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="511">
-            <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/beans.xml">
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/Container/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/getBeanException.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="117" selection-start-line="3" selection-start-column="117" selection-end-line="3" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-test-4.3.18.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class" />
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-test-5.0.2.RELEASE-sources.jar!/org/springframework/test/context/ContextConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-context-5.0.2.RELEASE-sources.jar!/org/springframework/context/ApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="57" column="58" selection-start-line="57" selection-start-column="58" selection-end-line="57" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/Container/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-tx-5.0.2.RELEASE-javadoc.jar!/allclasses-frame.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_191/src.zip!/java/applet/Applet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="1204">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/springIoc/Container/Container.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="3" column="133" selection-start-line="3" selection-start-column="133" selection-end-line="3" selection-end-column="150" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4956" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/getBean_threeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-640">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://SpringLocalModels/module=hello spring">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>SpringLocalModels</ID>
-          <OriginalElement>module=hello spring</OriginalElement>
-          <nodes>
-            <node x="" y="">module=hello spring</node>
-            <node x="" y="">fileset=hello spring/Beans</node>
-            <node x="" y="">fileset=hello spring/ApplicationContext</node>
-            <node x="" y="">filePath=D:/project/hello spring/src/ApplicationContext.xml</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="271.0" y="41.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Show filesets as groups</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ApplicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/Container/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_init/_01_constructor.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_01_constructor/Cat1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#101#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_04_factory_bean/Cat4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_02_static_factory/Cat2Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_03_instance_factory/Cat3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_03_instance_factory/Cat3Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_02_static_factory/Cat2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/HelloWorldTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/HelloWorld3.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-5.0.2.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1595">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/1.spring基础/4.spring基本配置">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/App-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_instantiation/_04_factory_bean/Cat4Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-          </folding>
+          <caret line="3" column="133" selection-start-line="3" selection-start-column="133" selection-end-line="3" selection-end-column="133" />
         </state>
       </provider>
     </entry>
@@ -766,10 +739,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_setter/CollectionBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_setter/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_setter/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_setter/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_setter/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_setter/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="63" column="11" lean-forward="true" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_scope/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-246">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="147">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -783,75 +802,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/MyDataSource.java">
+    <entry file="file://$PROJECT_DIR$/resoures/db.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="56">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_extend/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/property_placeholder/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="68" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="68" />
           <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#763#788#0" expanded="true" />
+            <element signature="e#826#839#0" expanded="true" />
+            <element signature="e#882#900#0" expanded="true" />
+            <element signature="e#943#961#0" expanded="true" />
+            <element signature="e#1007#1028#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/App-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_extend/SomeBean1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="566">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/App.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_extend/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="427">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/1.spring基础/3.spring测试框架.md">
+    <entry file="file://$PROJECT_DIR$/笔记/常见的问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <first_editor relative-caret-position="196">
+            <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/test/Spring_junit4_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/test/Spring_junit5_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/2.IOC/3.bean作用域.md">
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/5.bean生命周期.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="168">
+            <caret line="6" column="32" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="32" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/2.IOC/4.bean实例化和销毁.md">
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/4.bean实例化和销毁.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="252">
@@ -861,38 +877,270 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello spring.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="868">
-          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/3.bean作用域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="224">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/2.IOC/2.bean的实例化方案.md">
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/1IOC容器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="429">
+            <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/6.bean注入方式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="401">
+            <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/7.bean继承.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="196">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/8.连接池配置.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/9.模拟注册练习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/2.bean的实例化方案.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="112">
-            <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="8" />
+            <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/2.IOC/5.bean生命周期.md">
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/property_placeholder/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/property_placeholder/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/property_placeholder/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/register/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/register/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/register/dao/UserDAOImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/register/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/register/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/register/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/1.spring基础/2getBean三种方式和常见异常.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="448">
-            <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <first_editor>
+            <caret column="1" selection-start-column="1" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/2.IOC/1IOC容器.md">
+    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/getBean_threeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/Autowired/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/beans.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/MyDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springIoc/bean_create_and_destroy/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/Autowired/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/Autowired/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAnnotations/register/dao/UserDAOImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/3.基于注解配置bean/细节.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="505">
-            <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <first_editor relative-caret-position="168">
+            <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>

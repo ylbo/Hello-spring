@@ -23,8 +23,8 @@ class PersonTest {
         Resource resource = new ClassPathResource("cn/springIoc/Container/Container.xml");
         BeanFactory beanFactory = new XmlBeanFactory(resource);
         System.out.println("-------------------------------");
-        Person p = beanFactory.getBean("person", Person.class);
-        System.out.println(p);
+        //Person p = beanFactory.getBean("person", Person.class);
+        //System.out.println(p);
     }
 
     /* 使用testApplicationContext
@@ -38,7 +38,7 @@ class PersonTest {
     void testApplicationContext () {
         ApplicationContext ctx = new ClassPathXmlApplicationContext("cn/springIoc/Container/Container.xml");
         System.out.println("-------------------------------");
-        Person p = ctx.getBean("person", Person.class);
-        System.out.println(p);
+        //Person p = ctx.getBean("person", Person.class);
+        //System.out.println(p);
     }
 }
