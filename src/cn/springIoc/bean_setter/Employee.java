@@ -19,7 +19,7 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
+        return "EmployeeInterface{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", salary=" + salary +
