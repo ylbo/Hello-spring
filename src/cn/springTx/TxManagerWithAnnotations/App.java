@@ -1,4 +1,4 @@
-package cn.springTx;
+package cn.springTx.TxManagerWithAnnotations;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

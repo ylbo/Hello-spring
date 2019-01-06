@@ -1,4 +1,4 @@
-package cn.springTx;
+package cn.springTx.TxManagerWithXml;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 

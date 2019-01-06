@@ -1,4 +1,4 @@
-package cn.springTx;
+package cn.springTx.base;
 
 public interface IAccountDAO {
 

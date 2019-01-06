@@ -1,4 +1,4 @@
-package cn.springTx;
+package cn.springTx.TxManagerWithAnnotations;
 
 import lombok.Data;
 

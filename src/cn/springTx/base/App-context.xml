@@ -18,11 +18,11 @@
         <property name="initialSize" value="${jdbc.initialSize}"/>
     </bean>
 
-    <bean id="dao" class="cn.springTx.IAccountDAOImp">
+    <bean id="dao" class="cn.springTx.base.IAccountDAOImp">
         <property name="dataSource" ref="dataSource"/>
     </bean>
 
-    <bean id="service" class="cn.springTx.IAccountServiceImp">
+    <bean id="service" class="cn.springTx.base.IAccountServiceImp">
         <property name="dao" ref="dao"/>
     </bean>
 
