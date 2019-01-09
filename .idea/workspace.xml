@@ -5,40 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a3d9cfd-2c03-474a-9f4c-f340091dc125" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resoures/text.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountDAOImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/App-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/DataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/IAccountDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/IAccountDAOImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/IAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/IAccountServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountDAOImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/App-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/UserDAOInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/UserImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/0.Spring官方文档阅读笔记/记录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello spring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springTx/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springTx/base/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springTx/App-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springTx/base/App-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springTx/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springTx/base/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springTx/IAccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springTx/base/IAccountDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springTx/IAccountDAOImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springTx/base/IAccountDAOImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springTx/IAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springTx/base/IAccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/springTx/IAccountServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springTx/base/IAccountServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/5.事务管理/1.事务回顾.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/5.事务管理/1.事务回顾.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App-context.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,16 +57,68 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="springdemo: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springdemo@192.168.157.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ylb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/App.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="17" column="77" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+            <state relative-caret-position="532">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/springdemo/table/ylbUserInfo">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resoures/db.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/UserImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,10 +127,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resoures/text.xml">
+        <entry file="file://$PROJECT_DIR$/src/Test/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="35" column="52" lean-forward="true" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+            <state relative-caret-position="392">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -122,15 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/springProxy/dynamicProxy/App.java" />
-        <option value="$PROJECT_DIR$/src/cn/springProxy/dynamicProxy/JDK.java" />
-        <option value="$PROJECT_DIR$/src/cn/springProxy/dynamicProxy/JDK_APP.java" />
-        <option value="$PROJECT_DIR$/src/cn/springProxy/dynamicProxy/cglib_App.java" />
-        <option value="$PROJECT_DIR$/src/cn/springProxy/staticProxy/App-context.xml" />
-        <option value="$PROJECT_DIR$/src/cn/springProxy/staticProxy/EmployeeDAOImp.java" />
-        <option value="$PROJECT_DIR$/src/cn/springProxy/staticProxy/EmployeeServiceProxy.java" />
-        <option value="$PROJECT_DIR$/src/cn/springAOP/xml/App.java" />
-        <option value="$PROJECT_DIR$/笔记/4.AOP/3.aop思想.md" />
         <option value="$PROJECT_DIR$/笔记/4.AOP/1.静态代理.md" />
         <option value="$PROJECT_DIR$/src/cn/springAOP/xml/App-context.xml" />
         <option value="$PROJECT_DIR$/src/cn/springAOP/xml/Manager.java" />
@@ -163,7 +183,6 @@
         <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountDAOImp.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
         <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountServiceImp.java" />
-        <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App-context.xml" />
         <option value="$PROJECT_DIR$/笔记/5.事务管理/1.事务回顾.md" />
         <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/DataSourceConfig.java" />
         <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/IAccountDAOImp.java" />
@@ -172,11 +191,21 @@
         <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/App-context.xml" />
         <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/App.java" />
         <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountServiceImp.java" />
         <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/App.java" />
+        <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/App-context.xml" />
+        <option value="$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App-context.xml" />
+        <option value="$PROJECT_DIR$/笔记/0.Spring官方文档阅读笔记/记录.md" />
+        <option value="$PROJECT_DIR$/src/Test/TxManager/UserDAOInterface.java" />
+        <option value="$PROJECT_DIR$/src/Test/TxManager/App.java" />
+        <option value="$PROJECT_DIR$/src/Test/User.java" />
+        <option value="$PROJECT_DIR$/src/Test/UserImp.java" />
+        <option value="$PROJECT_DIR$/src/Test/App-context.xml" />
+        <option value="$PROJECT_DIR$/src/Test/App.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -218,29 +247,6 @@
               <item name="hello spring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="springBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="springBase" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="springBase" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="springTx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -255,9 +261,7 @@
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello spring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="springTx" type="462c0819:PsiDirectoryNode" />
-              <item name="TxManagerWithXml" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
@@ -268,7 +272,7 @@
               <item name="hello spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello spring" type="462c0819:PsiDirectoryNode" />
               <item name="笔记" type="462c0819:PsiDirectoryNode" />
-              <item name="1.Spring基础" type="462c0819:PsiDirectoryNode" />
+              <item name="0.Spring官方文档阅读笔记" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,7 +285,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546787110789" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546929986303" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -289,21 +293,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\hello spring\resoures" />
       <recent name="D:\project\hello spring\src\cn\springTx\base" />
       <recent name="D:\project\hello spring\笔记\4.AOP" />
       <recent name="D:\project\hello spring\src\cn\springDAO\XML\Annotations" />
       <recent name="D:\project\hello spring\src\cn\springAOP\xml" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\hello spring\src\Test" />
+      <recent name="D:\project\hello spring\src\Test\TxManager" />
       <recent name="D:\project\hello spring\src\cn\springTx\TxManagerWithJavaConfig" />
       <recent name="D:\project\hello spring\src\cn\springTx\TxManagerWithAnnotations" />
       <recent name="D:\project\hello spring\src\cn\springTx\TxManager" />
-      <recent name="D:\project\hello spring\src\cn\springTx" />
-      <recent name="D:\project\hello spring\src\cn\springDAO\XML" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -318,7 +323,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="JUnit.App">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.springTx.TxManagerWithXml.App" />
       <module name="hello spring" />
@@ -345,17 +350,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App.testTrans (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hello spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.springTx.TxManagerWithAnnotations.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.springTx.TxManagerWithAnnotations" />
-      <option name="MAIN_CLASS_NAME" value="cn.springTx.TxManagerWithAnnotations.App" />
-      <option name="METHOD_NAME" value="testTrans" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hello spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.App" />
+      <option name="METHOD_NAME" value="create" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -381,22 +400,6 @@
       <module name="hello spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.springTx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.springTx" />
-      <option name="MAIN_CLASS_NAME" value="cn.springTx.App" />
-      <option name="METHOD_NAME" value="testTrans" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App.testTrans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hello spring" />
-      <extension name="coverage">
-        <pattern>
           <option name="PATTERN" value="cn.springTx.TxManagerWithXml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -410,19 +413,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.App.testTrans" />
-      <item itemvalue="JUnit.App.testTrans (1)" />
-      <item itemvalue="JUnit.App.testTrans (2)" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (1)" />
+      <item itemvalue="JUnit.App.testTrans" />
+      <item itemvalue="JUnit.App.testTrans (2)" />
+      <item itemvalue="JUnit.App.create" />
+      <item itemvalue="JUnit.App" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.App" />
+        <item itemvalue="JUnit.App.create" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.App.testTrans (2)" />
-        <item itemvalue="JUnit.App.testTrans (1)" />
-        <item itemvalue="JUnit.App.testTrans (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -462,44 +466,55 @@
       <workItem from="1546759891239" duration="669000" />
       <workItem from="1546762839708" duration="7857000" />
       <workItem from="1546778263709" duration="5000" />
-      <workItem from="1546781533758" duration="3466000" />
+      <workItem from="1546781533758" duration="4431000" />
+      <workItem from="1546789875023" duration="610000" />
+      <workItem from="1546841135727" duration="4408000" />
+      <workItem from="1546848006339" duration="237000" />
+      <workItem from="1546848703301" duration="235000" />
+      <workItem from="1546849013841" duration="93000" />
+      <workItem from="1546861450043" duration="6404000" />
+      <workItem from="1546914995856" duration="4484000" />
+      <workItem from="1546920368110" duration="1485000" />
+      <workItem from="1546930724137" duration="63000" />
+      <workItem from="1546949698990" duration="1331000" />
+      <workItem from="1546952121222" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="App_testTrans - 2019.01.05 at 23h 37m 26s.xml">
-      <configuration name="App.testTrans" configurationId="JUnit" />
+    <history-entry file="App - 2019.01.08 at 11h 23m 58s.xml">
+      <configuration name="App" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testTrans_(1) - 2019.01.05 at 23h 42m 41s.xml">
-      <configuration name="App.testTrans (1)" configurationId="JUnit" />
+    <history-entry file="App - 2019.01.08 at 11h 25m 46s.xml">
+      <configuration name="App" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testTrans_(1) - 2019.01.05 at 23h 44m 57s.xml">
-      <configuration name="App.testTrans (1)" configurationId="JUnit" />
+    <history-entry file="App - 2019.01.08 at 11h 30m 34s.xml">
+      <configuration name="App" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testTrans_(1) - 2019.01.05 at 23h 45m 26s.xml">
-      <configuration name="App.testTrans (1)" configurationId="JUnit" />
+    <history-entry file="App - 2019.01.08 at 11h 31m 05s.xml">
+      <configuration name="App" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testTrans_(1) - 2019.01.05 at 23h 51m 59s.xml">
-      <configuration name="App.testTrans (1)" configurationId="JUnit" />
+    <history-entry file="App - 2019.01.08 at 11h 32m 10s.xml">
+      <configuration name="App" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testTrans_(2) - 2019.01.06 at 20h 04m 18s.xml">
-      <configuration name="App.testTrans (2)" configurationId="JUnit" />
+    <history-entry file="App - 2019.01.08 at 11h 33m 46s.xml">
+      <configuration name="App" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testTrans_(2) - 2019.01.06 at 20h 07m 23s.xml">
-      <configuration name="App.testTrans (2)" configurationId="JUnit" />
+    <history-entry file="App - 2019.01.08 at 11h 34m 54s.xml">
+      <configuration name="App" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testTrans_(2) - 2019.01.06 at 20h 08m 02s.xml">
-      <configuration name="App.testTrans (2)" configurationId="JUnit" />
+    <history-entry file="App_create - 2019.01.08 at 11h 39m 30s.xml">
+      <configuration name="App.create" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testTrans_(2) - 2019.01.06 at 20h 08m 50s.xml">
-      <configuration name="App.testTrans (2)" configurationId="JUnit" />
+    <history-entry file="App_create - 2019.01.08 at 11h 40m 54s.xml">
+      <configuration name="App.create" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="App_testTrans_(2) - 2019.01.06 at 20h 14m 40s.xml">
-      <configuration name="App.testTrans (2)" configurationId="JUnit" />
+    <history-entry file="App - 2019.01.08 at 11h 41m 07s.xml">
+      <configuration name="App" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65038000" />
+    <option name="totallyTimeSpent" value="85360000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,7 +529,41 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23507462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17377399" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49840087" weight="0.3373102" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49946696" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3253796" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" weight="0.3373102" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.329718" />
+      <window_info anchor="bottom" id="Problems" order="14" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.24520256" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -530,23 +579,23 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.329718" />
-      <window_info anchor="bottom" id="Problems" order="15" />
+      <window_info anchor="bottom" id="Problems" order="15" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.2228145" />
+      <window_info anchor="right" id="Database" order="6" weight="0.108208954" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -599,63 +648,23 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="56">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/base/Account.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/springdemo/table/account.sql" />
-    <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/springdemo/table/student" />
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/base/IAccountDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/base/IAccountServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/base/IAccountDAOImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/base/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="308">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/springTx/base/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="364">
           <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -665,50 +674,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/springTx/base/App-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        <state relative-caret-position="487">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/springdemo/table/employee" />
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountService.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/springDAO/xml/App-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="539">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/springDAO/xml/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="196">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountDAOImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello spring.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/Account.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/springDAO/xml/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springDAO/xml/EmployeeDAOImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="65" column="39" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="65" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/3.bean作用域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/3.基于注解配置bean/细节.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="532">
+            <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/6.bean注入方式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -719,144 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/5.事务管理/1.事务回顾.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/4.AOP/1.静态代理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="56">
-            <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resoures/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/springdemo/table/account" />
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springDAO/xml/App-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/IAccountDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/IAccountServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/DataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/IAccountDAOImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/App-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springAOP/annotation/App-context.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/6.bean注入方式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-252" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/1.Spring基础/3.spring测试框架.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/1.Spring基础/2getBean三种方式和常见异常.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/test/Spring_junit4_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/getBeanException.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -864,13 +747,180 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/HelloWorldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/HelloWorld3.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springBase/bean/HelloWorldTest.java">
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/2.bean的实例化方案.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/2.IOC容器与基于xml的bean配置/4.bean实例化和销毁.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#475#500#1" expanded="true" />
+            <element signature="e#549#562#1" expanded="true" />
+            <element signature="e#599#617#1" expanded="true" />
+            <element signature="e#659#677#1" expanded="true" />
+            <element signature="e#719#740#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountDAOImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/IAccountServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAOP/annotation/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAOP/annotation/EmployeeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAOP/annotation/EmployeeDAOImp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAOP/annotation/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAOP/annotation/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springAOP/annotation/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/0.Spring官方文档阅读笔记/记录.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="728">
+            <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springBase/test/Spring_junit5_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/springdemo/table/employee">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/ylb/table/ylbUserInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/TxManager/DAO/SqlHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test/TxManager/DAO/TestData.java" />
+    <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/springdemo/table/account">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springBase/test/Spring_junit4_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/UserDAOInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -886,75 +936,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithJavaConfig/App-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="140">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/App-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-5.0.2.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountDAOImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/IAccountDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resoures/text.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="35" column="52" lean-forward="true" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        <state relative-caret-position="158">
+          <caret line="31" column="97" selection-start-line="31" selection-start-column="97" selection-end-line="31" selection-end-column="97" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithXml/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="77" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+        <state relative-caret-position="364">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/springdemo/table/ylbUserInfo.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6fbbcad9-7ece-4ed9-ad78-fe3cf5ec3704/schema/springdemo/table/ylbUserInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/springTx/TxManagerWithAnnotations/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/UserImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resoures/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
