@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="dog" class="cn.springIoc.bean_scope.Dog" />
+
+    <!--相同部分可以提取出来 使用parent继承 新的bean没有对应的类 使用abstract="true"-->
+    <bean id="base" abstract="true">
+        <property name="name" value="1"/>
+        <property name="age" value="19"/>
+    </bean>
+
+    <bean id="somebean1" class="core._5_Bean_Definition_Inheritance.SomeBean1" parent="base">
+        <!--<property name="name" value="1"/>-->
+        <!--<property name="age" value="19"/>-->
+        <property name="color" value="blue"/>
+    </bean>
+
+    <bean id="somebean2" class="core._5_Bean_Definition_Inheritance.SomeBean2" parent="base">
+        <!--<property name="name" value="1"/>-->
+        <!--<property name="age" value="19"/>-->
+        <property name="weight" value="100"/>
+     </bean>
+</beans>

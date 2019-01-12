@@ -9,7 +9,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import javax.sql.DataSource;
 
-//当前项目的配置文件 好比是applicationContext.xml
+//当前项目的配置文件 好比是applicationContext._3_xml_based
 @Configuration//表示当前类为一个配置类
 //导入别的配置文件
 @Import(DataSourceConfig.class)// 导入其他配置类

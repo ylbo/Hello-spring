@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--常量类型注入-->
+    <bean id="straightValues" class="core._2_Dependencies._2_Dependencies_and_Configuration_in_Detail.Straight_Values">
+        <property name="name" value="straightValues"/>
+        <property name="age" value="17"/>
+        <property name="salary" value="800"/>
+    </bean>
+
+    <!--对象类型注入-->
+    <bean id="cat" class="core._2_Dependencies._2_Dependencies_and_Configuration_in_Detail.References_Values">
+        <property name="straightValues" ref="straightValues"/>
+    </bean>
+
+    <!--集合类型注入-->
+    <bean id="collectionBean" class="core._2_Dependencies._2_Dependencies_and_Configuration_in_Detail.Collection_Values">
+        <!--set集合-->
+        <property name="set">
+            <set>
+                <value>"set1"</value>
+                <value>"set2"</value>
+            </set>
+        </property>
+        <!--数组-->
+        <property name="array">
+            <array>
+                <value>"array1"</value>
+                <value>"array2"</value>
+            </array>
+        </property>
+        <!--list类型-->
+        <property name="list">
+            <list>
+                <value>"list1"</value>
+                <value>"list2"</value>
+            </list>
+        </property>
+        <!--map类型 常量对象直接写key value  其他对象使用 key-ref value-ref -->
+        <property name="map">
+            <map>
+                <entry key="key" value="value"/>
+            </map>
+        </property>
+        <!--properties类型 也可以使用map的写法-->
+        <!--<property name="properties">-->
+            <!--<props>-->
+                <!--<prop key="prop">la</prop>-->
+            <!--</props>-->
+        <!--</property>-->
+        <!--properties类型简写-->
+        <property name="properties">
+            <value>
+                p1=v1
+                p2=v2
+                p3=v3
+            </value>
+        </property>
+    </bean>
+
+    
+</beans>

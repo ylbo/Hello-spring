@@ -9,7 +9,7 @@ public class Cat {
 
     @Override
     public String toString() {
-        return "Cat{" +
+        return "References_Values{" +
                 "employee=" + employee +
                 '}';
     }

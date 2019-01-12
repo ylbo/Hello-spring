@@ -13,7 +13,7 @@ import org.springframework.test.context.junit.jupiter.SpringJUnitConfig;
 //  junit4的包名是 org.junit.Test
 //  junit5的包名是  org.junit.jupiter.api.Test
 //  使用junit5时 public可以省去
-//  ContextConfiguration可以不用，存在跟测试类相同目录的 ”测试类名-context.xml“ 文件可以自动加载配置文件
+//  ContextConfiguration可以不用，存在跟测试类相同目录的 ”测试类名-context._3_xml_based“ 文件可以自动加载配置文件
 @SpringJUnitConfig
 @ContextConfiguration("classpath:cn/springBase/bean/HelloWorld3.xml")
 class Spring_junit5_test {

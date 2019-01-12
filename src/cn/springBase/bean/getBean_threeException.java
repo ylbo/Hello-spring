@@ -49,7 +49,7 @@ public class getBean_threeException {
         //  常见异常3：NoUniqueBeanDefinitionException:No qualifying bean of type 'HelloWorld' available:
         //  expected single matching bean but found 2: HelloWorld,HelloWorld3
         //  解释；获取bean时候 希望获取类型唯一的一个bean，但是找到了两个
-        //  在beans.xml 中多个类的名称是HelloWorld
+        //  在beans._3_xml_based 中多个类的名称是HelloWorld
         world = (HelloWorld) factory.getBean(HelloWorld.class);
         System.out.println(world.getMessage());
     }

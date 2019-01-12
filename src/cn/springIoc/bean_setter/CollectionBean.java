@@ -31,7 +31,7 @@ public class CollectionBean {
 
     @Override
     public String toString() {
-        return "CollectionBean{" +
+        return "Collection_Values{" +
                 "set=" + set +
                 ", list=" + list +
                 ", array=" + Arrays.toString(array) +

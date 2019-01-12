@@ -4,15 +4,15 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!--常量类型注入-->
-    <bean id="employee" class="cn.springIoc.bean_setter.Employee">
-        <property name="name" value="employee"/>
+    <bean id="straightValues" class="cn.springIoc.bean_setter.Employee">
+        <property name="name" value="straightValues"/>
         <property name="age" value="17"/>
         <property name="salary" value="800"/>
     </bean>
 
     <!--对象类型注入-->
     <bean id="cat" class="cn.springIoc.bean_setter.Cat">
-        <property name="employee" ref="employee"/>
+        <property name="straightValues" ref="straightValues"/>
     </bean>
 
     <!--集合类型注入-->
